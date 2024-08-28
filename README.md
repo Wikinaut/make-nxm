@@ -10,3 +10,11 @@ purpose: facilitate flyer production from a sharepicture, for example from https
 * only requirement: imagemagick (aka magick; convert)
 
 Presented at Berlin Hack'n'Tell #98 (BHNT #98) at c-base Berlin 27.08.2024
+
+Input:
+![](https://raw.githubusercontent.com/Wikinaut/make-nxm/main/examples/20240828_Thielallee.jpg)
+
+`make-nxm input 2 2`
+
+Output:
+![](https://raw.githubusercontent.com/Wikinaut/make-nxm/main/examples/20240828_Thielallee_2x2-20_reduced.jpg)
