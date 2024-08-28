@@ -9,4 +9,4 @@ purpose: facilitate flyer production from a sharepicture, for example from https
 * bash script
 * only requirement: imagemagick (aka magick; convert)
 
-Wikinaut presented at Berlin Hack'n'Tell #98 (BHNT #98) at c-base Berlin 27.08.2024
+Presented at Berlin Hack'n'Tell #98 (BHNT #98) at c-base Berlin 27.08.2024
