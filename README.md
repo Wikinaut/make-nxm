@@ -12,6 +12,7 @@ purpose: facilitate flyer production from a sharepicture, for example from https
 Presented at Berlin Hack'n'Tell #98 (BHNT #98) at c-base Berlin 27.08.2024
 
 Input:
+
 ![](https://raw.githubusercontent.com/Wikinaut/make-nxm/main/examples/radewegestopp_sharepic_0_720.png)
 
 `make-nxm input 3 4`
