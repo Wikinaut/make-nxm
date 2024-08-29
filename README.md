@@ -10,6 +10,7 @@ purpose: facilitate flyer production from a sharepicture, for example from https
 * only requirement: imagemagick (aka magick; convert)
 
 Presented at Berlin Hack'n'Tell #98 (BHNT #98) at c-base Berlin 27.08.2024
+https://bhnt.c-base.org/2024-08-27-no98-groky-hacks
 
 Input:
 
